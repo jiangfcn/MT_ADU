@@ -1,5 +1,5 @@
 # MT_ADU
- MATLAB tools for metronix ADU system 
+ MATLAB tools for Metronix ADU system 
 
 # Usage
  * read_adu_xml: read locations from xml files
